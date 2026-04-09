@@ -1,5 +1,24 @@
 "MatchModes"
 {
+        "FlowMod Configs"
+	{
+		"flowmod"
+		{
+			"name" "FlowMod 1.3"
+		}
+		"fm3v3"
+		{
+			"name" "3v3 FlowMod"
+		}
+		"fm2v2"
+		{
+			"name" "2v2 FlowMod"
+		}
+		"fm1v1"
+		{
+			"name" "1v1 FlowMod"
+		}
+	}
 	"ZoneMod Configs"
 	{
 		"zonemod"
@@ -8,7 +27,7 @@
 		}
 		"zoneretro"
 		{
-			"name" "ZoneMod Retro 2.9"
+			"name" "ZoneMod 2.9 Retro"
 		}
 		"zm3v3"
 		{
