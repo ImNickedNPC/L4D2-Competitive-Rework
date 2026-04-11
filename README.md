@@ -26,7 +26,7 @@ In its current state it allows anyone to host their own up to date competitive L
 
 > **Included Matchmodes:**
 
-* **Flowmod 1.3**
+* **Flowmod 1.3.1**
 * **Zonemod 2.9e**
 * **Zonemod Hunters**
 * **Zonemod Retro**
